@@ -1,6 +1,6 @@
 #pic2gif
 * pic2gif is a shell script that converts an input image into a gif with
-increasing and decreasing thresholding values. It uses [ImageMagick](https://www.imagemagick.org/) The folder contains some
+increasing and decreasing thresholding values. It uses [ImageMagick](https://www.imagemagick.org/). The folder contains some
 images and their converted gifs.
 
 * The instructions to run the program are given in pic2gif.sh
